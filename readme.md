@@ -11,7 +11,7 @@ This is Official Repo of This Bot | Made By CodeX Development !
 
 ## Made By
 
-Hotsuop#0000 <br>
+Hotsuop#0000
    *If you want your name here commint the repo and it will be added!
 
 ## Features 
