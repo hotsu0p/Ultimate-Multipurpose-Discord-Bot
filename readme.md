@@ -60,6 +60,6 @@ User env.png <br>
 Put TOKEN in ENV
 
 ## Support 
-[CodeX Development](https://dsc.gg/codexdev)
+Made By [Hotsuop dev services](https://discord.gg/jj25BZgrFb)
 
-https://dsc.gg/codexdev
+https://discord.gg/jj25BZgrFb
