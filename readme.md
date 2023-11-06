@@ -6,7 +6,7 @@
 </div>
 Best 2023 Multipurpose Bot Discord bot with latest tech,
 
-This is Official Repo of This Bot | Made By CodeX Development ! 
+This is Official Repo of This Bot | Made By [Hotsuop dev services](https://discord.gg/jj25BZgrFb) ! 
 
 
 ## Made By
