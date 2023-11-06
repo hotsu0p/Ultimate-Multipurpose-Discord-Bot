@@ -6,46 +6,51 @@
 </div>
 Best 2023 Multipurpose Bot Discord bot with latest tech,
 
-This is Official Repo of This Bot | Made By CodeX Development ! 
+This is Official Repo of This Bot | Made By [Hotsuop dev services](https://discord.gg/jj25BZgrFb) ! 
 
 
 ## Made By
 
-! Ɱr . RAY#1903 <br>
-tufan0000
+Hotsuop#0000
+   * If you want your name here commint the repo and it will be added!
+
 
 ## Features 
-- Premium
-- Anti Nuke
-- Moderation
-- Owner Only
-- Games
-- Suggestion
-- Fun
-- Custom Roles
-- Developer Commands
-- Emote Manager
-- Multi Guild
-- Giveaways
-- Whitelist System
-- Music
-- Ticket
-- Much More 
+Features 🎉
+- ✨Premium
+- 💥Anti Nuke
+- 🔨Moderation
+- 👑Owner Only
+- 🎮Games
+- 💬Suggestion
+- 😂Fun
+- 🧙Custom Roles
+- 🛠️Developer Commands
+- 🎭Emote Manager
+- 🌌Multi Guild
+- 🎁Giveaways
+- 🛡️Whitelist System
+- 🎶Music
+- 🎫Ticket
+- And much more! 🎉
   
 
 
 ## Screenshots
 
-![App Screenshot 1](https://cdn.discordapp.com/attachments/1120251501294649364/1120251729523523654/image.png)
-![App Screenshot 2](https://cdn.discordapp.com/attachments/1120251501294649364/1120251957190344755/image.png)
+Soon!
 
 
 ## Installation
 
-Use <br>
+Clone or download this repo
+   * `git clone https://github.com/hotsu0p/Ultimate-Multipurpose-Discord-Bot.git` <br>
+
 Node V16+
 
 ## To Run The Project
+
+
 ```bash
   npm install
   node ./structures/bot.js
@@ -57,6 +62,6 @@ User env.png <br>
 Put TOKEN in ENV
 
 ## Support 
-[CodeX Development](https://dsc.gg/codexdev)
+Made By [Hotsuop dev services](https://discord.gg/jj25BZgrFb)
 
-https://dsc.gg/codexdev
+https://discord.gg/jj25BZgrFb
