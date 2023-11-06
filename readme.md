@@ -11,8 +11,8 @@ This is Official Repo of This Bot | Made By CodeX Development !
 
 ## Made By
 
-! Ɱr . RAY#1903 <br>
-tufan0000
+Hotsuop#0000 <br>
+   *If you want your name here commint the repo and it will be added!
 
 ## Features 
 - Premium
