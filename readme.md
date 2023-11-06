@@ -14,23 +14,23 @@ This is Official Repo of This Bot | Made By [Hotsuop dev services](https://disco
 Hotsuop#0000
    * If you want your name here commint the repo and it will be added!
 
-## Features 
-- Premium
-- Anti Nuke
-- Moderation
-- Owner Only
-- Games
-- Suggestion
-- Fun
-- Custom Roles
-- Developer Commands
-- Emote Manager
-- Multi Guild
-- Giveaways
-- Whitelist System
-- Music
-- Ticket
-- Much More 
+Features 🎉
+-✨Premium
+-💥Anti Nuke
+-🔨Moderation
+-👑Owner Only
+-🎮Games
+-💬Suggestion
+-😂Fun
+-🧙Custom Roles
+-🛠️Developer Commands
+-🎭Emote Manager
+-🌌Multi Guild
+-🎁Giveaways
+-🛡️Whitelist System
+-🎶Music
+-🎫Ticket
+And much more! 🎉
   
 
 
