@@ -36,8 +36,7 @@ Hotsuop#0000
 
 ## Screenshots
 
-![App Screenshot 1](https://cdn.discordapp.com/attachments/1120251501294649364/1120251729523523654/image.png)
-![App Screenshot 2](https://cdn.discordapp.com/attachments/1120251501294649364/1120251957190344755/image.png)
+Soon!
 
 
 ## Installation
