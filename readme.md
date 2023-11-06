@@ -41,10 +41,13 @@ Soon!
 
 ## Installation
 
-Use <br>
+Clone or download this repo
+  * `git clone https://github.com/hotsu0p/Ultimate-Multipurpose-Discord-Bot.git`
 Node V16+
 
 ## To Run The Project
+
+
 ```bash
   npm install
   node ./structures/bot.js
